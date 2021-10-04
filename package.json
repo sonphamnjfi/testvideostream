@@ -1,0 +1,11 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sonphamnjfi/testvideostream.git",
+  "author": "Son Pham <sonphamnjfi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
