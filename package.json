@@ -6,6 +6,12 @@
   "author": "Son Pham <sonphamnjfi@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "simple-peer": "^9.11.0",
+    "webpack-cli": "^4.8.0"
   }
 }
